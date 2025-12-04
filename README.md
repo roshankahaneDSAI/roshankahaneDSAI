@@ -4,9 +4,9 @@
 </p>
 
 <!-- PROFILE PHOTO -->
-<p align="center">
+<!-- <p align="center">
   <img src="YOUR_PROFILE_PHOTO_URL" width="150" height="150" style="border-radius:50%; border:3px solid #f75c03;" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Roshan</h1>
 
