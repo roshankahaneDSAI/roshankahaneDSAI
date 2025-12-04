@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hi, I'm Roshan  
+### **Data Scientist & Generative AI Engineer**
 
-<!--
-**roshankahaneDSAI/roshankahaneDSAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI systems that think, scale, and deliver business impact**.  
+With **7+ years of experience**, I specialize in **Generative AI, Agentic AI, MLOps, and enterprise-scale ML systems** across automotive, industrial, and supply-chain domains.
 
-Here are some ideas to get you started:
+I help organizations deploy **production-ready GenAI assistants, forecasting engines, predictive maintenance systems, and cloud-native AI pipelines** on **Azure & Databricks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If your business needs scalable AI automation or intelligent data solutions — let's connect.
+
+🌐 **Portfolio:** _Add your portfolio link here_  
+📬 **Reach Me:** _your.email@domain.com_  
+💼 **LinkedIn:** _Add LinkedIn URL_  
+🐙 **GitHub:** RoshanKahane  
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](#) • [Email](mailto:your.email@domain.com) • [Portfolio](#)
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🧠 **AI, ML & Generative AI**
+- Time Series Forecasting  
+- Predictive Maintenance  
+- NLP, LLMs, RAG  
+- **Agentic AI Systems**  
+- Deep Learning (CNN, LSTM)  
+- Semantic Search  
+- Vector Databases  
+- Prompt Engineering  
+- Embeddings & Similarity Search  
+
+### 🚀 **MLOps & LLMOps**
+- MLflow  
+- Azure ML  
+- Databricks  
+- CI/CD for ML  
+- Model Registry & Monitoring  
+- Responsible AI & Governance  
+- Workflow Orchestration  
+- Feature Engineering & Scaling  
+
+### ☁️ **Cloud & Big Data**
+- Azure Cloud  
+- Azure Databricks  
+- Azure Data Factory  
+- Delta Lake  
+- PySpark  
+- Distributed Data Processing  
+
+### 🧑‍💻 **Programming & Frameworks**
+- Python  
+- SQL  
+- PyTorch / TensorFlow / Scikit-Learn  
+- LangChain  
+- FastAPI / Flask  
+- Power BI  
+
+### 🗄️ **Databases**
+- SQL Databases  
+- Delta Lake  
+- Azure Data Lake Storage  
+
+### 🧰 **Development Tools**
+- Git  
+- Docker  
+- Postman  
+- VS Code  
+- GitHub Actions  
+
+---
+
+## 📌 What I’m Working On
+- Building **agentic AI assistants** for enterprise data  
+- Deploying **LLM-powered dashboards & RAG systems**  
+- Designing **forecasting engines** for automotive & supply-chain analytics  
+- Developing **end-to-end MLOps pipelines** with Azure, Databricks & MLflow  
+
+---
+
+## 📈 GitHub Stats *(Optional)*
+
+![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanKahane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKahane&layout=compact&theme=radical)
+
+---
+
+### ✨ Thanks for visiting my profile!  
+Let’s build something intelligent together.
