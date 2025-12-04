@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Roshan  
 ### **Data Scientist & Generative AI Engineer**
 
-I build **AI systems that think, scale, and deliver business impact**.  
-With **7+ years of experience**, I specialize in **Generative AI, Agentic AI, MLOps, and enterprise-scale ML systems** across automotive, industrial, and supply-chain domains.
+I build **AI and ML systems that think, scale, and deliver business impact**.  
+With **7+ years of experience**, I specialize in **Generative AI, Agentic AI, MLOps, and enterprise-scale ML systems** across sales and manufacturing domains.
 
 I help organizations deploy **production-ready GenAI assistants, forecasting engines, predictive maintenance systems, and cloud-native AI pipelines** on **Azure & Databricks**.
 
 If your business needs scalable AI automation or intelligent data solutions — let's connect.
 
 🌐 **Portfolio:** _Add your portfolio link here_  
-📬 **Reach Me:** _your.email@domain.com_  
-💼 **LinkedIn:** _Add LinkedIn URL_  
-🐙 **GitHub:** RoshanKahane  
+📬 **Reach Me:** roshankahane09@gmail.com 
+💼 **LinkedIn:** https://www.linkedin.com/in/roshan-kahane-347550398/
+🐙 **GitHub:** roshankahaneDSAI  
 
 ---
 
