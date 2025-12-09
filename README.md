@@ -34,6 +34,10 @@ If you're looking to build **intelligent, scalable, cloud-ready AI products**, l
 📬 **Email:** roshankahane09@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/roshan-kahane-6426b27b/
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://portfolio-uc0z.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge)](mailto:roshankahane09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge)](https://www.linkedin.com/in/roshan-kahane-6426b27b/)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
