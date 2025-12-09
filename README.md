@@ -30,9 +30,7 @@ My expertise spans:
 
 If you're looking to build **intelligent, scalable, cloud-ready AI products**, let's connect.
 
-🌐 **Portfolio:** https://portfolio-uc0z.onrender.com/  
-📬 **Email:** roshankahane09@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/roshan-kahane-6426b27b/
+📬 Click below to explore more !
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://portfolio-uc0z.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge)](mailto:roshankahane09@gmail.com)
@@ -84,16 +82,6 @@ If you're looking to build **intelligent, scalable, cloud-ready AI products**, l
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RoshanKahane&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKahane&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-%23F75C03?style=for-the-badge"/></a>
 </p>
 
 ---
