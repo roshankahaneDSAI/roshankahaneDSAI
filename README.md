@@ -30,9 +30,9 @@ My expertise spans:
 
 If you're looking to build **intelligent, scalable, cloud-ready AI products**, let's connect.
 
-🌐 **Portfolio:** _Add your link_  
-📬 **Email:** _your.email@domain.com_  
-🔗 **LinkedIn:** _Add your URL_
+🌐 **Portfolio:** https://portfolio-uc0z.onrender.com/  
+📬 **Email:** roshankahane09@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/roshan-kahane-6426b27b/
 
 ---
 
